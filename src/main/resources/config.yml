@@ -1,0 +1,6 @@
+#Maximum ping(-1 for off)
+max_ping: -1
+#Message when the player gets kicked
+kick_message: High ping! Try again later.
+#Every how many minutes should the plugin check? (the quicker - the slower!)
+minutes: 10
